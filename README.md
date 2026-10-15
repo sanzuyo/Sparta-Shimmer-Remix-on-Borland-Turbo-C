@@ -8,6 +8,14 @@ If you want to try these codes on native hardware, for example,
 a PC with SoundCard or Internal Speakers with MS-DOS based Operating System (eg. Windows 9x, FreeDOS etc.),
 You would need Borland Turbo C/C++ installer version 3.0+
 
+Instructions for mounting Turbo C/C++ on DOSBox:
+
+" Z:\mount C: C:\
+  Z:\C:\
+  C:\cd TurboC3\bin    
+  C:\TurboC3\bin\TC "
+(sometimes the folder name might be TC instead of TurboC3 so watch out for that)
+
 This project was made possible by Google Gemini and it is a collaborative project and not vibe-coded.
 AI and myself shared the heavy tasks of compiling and debugging, thus demonstrating a healthy way for the future of coding.
 
